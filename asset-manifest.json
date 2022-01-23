@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ReactJS/static/css/main.16dd2c4c.css",
+    "main.js": "/Portfolio-ReactJS/static/js/main.15050c8e.js",
+    "static/media/bidder.jpg": "/Portfolio-ReactJS/static/media/bidder.b18a7b89134d7d1bd074.jpg",
+    "static/media/secret.jpg": "/Portfolio-ReactJS/static/media/secret.b71c41bd6379f3bec4ec.jpg",
+    "static/media/queuelio.jpg": "/Portfolio-ReactJS/static/media/queuelio.7079196d1322d91f0dcf.jpg",
+    "static/media/address.png": "/Portfolio-ReactJS/static/media/address.ab2c1cdaf3e2123e3afc.png",
+    "static/media/me.png": "/Portfolio-ReactJS/static/media/me.80f4dd626fb8e7609c69.png",
+    "static/media/sun.png": "/Portfolio-ReactJS/static/media/sun.eaee91fe429052dd420f.png",
+    "static/media/award.png": "/Portfolio-ReactJS/static/media/award.a4d8bd5f53696ee141ea.png",
+    "static/media/BVBT.png": "/Portfolio-ReactJS/static/media/BVBT.a0fd4dde383c22c7bc17.png",
+    "static/media/about.png": "/Portfolio-ReactJS/static/media/about.6288a432d664bb050f29.png",
+    "static/media/phone.png": "/Portfolio-ReactJS/static/media/phone.33cc9638f290628dc588.png",
+    "static/media/moon.png": "/Portfolio-ReactJS/static/media/moon.71ce70ca860f723ab778.png",
+    "static/media/email.png": "/Portfolio-ReactJS/static/media/email.62bef06b7bb8d730418e.png",
+    "index.html": "/Portfolio-ReactJS/index.html",
+    "main.16dd2c4c.css.map": "/Portfolio-ReactJS/static/css/main.16dd2c4c.css.map",
+    "main.15050c8e.js.map": "/Portfolio-ReactJS/static/js/main.15050c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dd2c4c.css",
+    "static/js/main.15050c8e.js"
+  ]
+}
